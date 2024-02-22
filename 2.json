@@ -6,6 +6,15 @@
     {
       "trait_type": "Color",
       "value": "Red"
+    },
+    {
+      "trait_type": "Governance Power",
+      "value": "2"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "1.5%"
     }
-  ]
+  ],
+  "external_link": "https://your-website.com/nft-details/2"
 }
