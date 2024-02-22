@@ -1,0 +1,12 @@
+{
+  "name": "Unfound #4",
+  "description": "A unique piece from the Unfound collection.",
+  "image": "https://raw.githubusercontent.com/hironate/erc404/master/images/4.png",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    }
+    // Add other attributes here
+  ]
+}
