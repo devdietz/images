@@ -1,32 +1,56 @@
 {
-  "name": "Unfound #2",
-  "description": "A unique piece from the Unfound collection.",
+  "name": "Cyber Pulse",
+  "description": "Cyber Pulse is a digital sentinel, adorned with neon highlights and a futuristic headset, overseeing the digital realm with sharp eyes. This NFT is a beacon of the cyber world's culture and aesthetics.",
   "image": "https://raw.githubusercontent.com/devdietz/images/main/4.webp",
+  "external_url": "https://yoursite.com/cyberpulse/1",
+  "background_color": "FF10F0",
+  "youtube_url": "https://www.youtube.com/watch?v=vdfrg3Clnoc",
   "attributes": [
     {
-      "trait_type": "Color",
-      "value": "Red"
+      "trait_type": "Headgear",
+      "value": "Futuristic Headset"
     },
     {
-      "trait_type": "Governance Power",
-      "value": "2x"
+      "trait_type": "Hair Style",
+      "value": "Spiked"
     },
     {
-      "trait_type": "Rarity",
-      "value": "1.5%"
+      "trait_type": "Visual Effect",
+      "value": "Neon Glow"
     },
     {
-      "trait_type": "Accents",
-      "value": "Neon"
+      "trait_type": "Jacket",
+      "value": "Digital Armor"
     },
     {
-      "trait_type": "Sex",
-      "value": "Male"
+      "trait_type": "Aura",
+      "value": "Cybernetic Essence"
     },
     {
-      "trait_type": "Direction",
-      "value": "Left"
+      "trait_type": "Mood",
+      "value": "Vigilant"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Charisma Level",
+      "value": 80,
+      "max_value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Neon Intensity",
+      "value": 75
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Edition",
+      "value": 1
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Release Date",
+      "value": 1677628800
     }
-  ],
-  "external_link": "https://coming-soon.com/nft-details/2"
+  ]
 }
+
